@@ -1,1 +1,1 @@
-print('Hello, world!')
+print('Hello, {}!'.format(input('> Enter your name: ')))
